@@ -1,0 +1,29 @@
+{
+  "$schema": "http://mekschemas.netlify.app/modpackager/v1/",
+  "SkyrimSEInstallPath": "D:\\Steam\\steamapps\\common\\Skyrim Special Edition",
+  "UnfuzerPath": "D:\\Steam\\steamapps\\common\\Skyrim Special Edition\\Tools\\unfuzer",
+  "ModInfo": {
+    "Name": "Chairhammers (Chair Warhammers)",
+    "Version": "1.0.0",
+    "Author": "Mark E. Kraus",
+    "Description": "Adds Chairhammers (Chair Warhammers) to Skyrim.",
+    "Website": "https://www.nexusmods.com/skyrimspecialedition/mods/61304",
+    "Category": "Weapons",
+    "Logo": "logo.png"
+  },
+  "Plugin":"MarkekrausChairhammers.esp",
+  "Scripts": [
+    "MEKCHModInitialization"
+  ],
+  "Meshes": [
+    "weapons\\chairhammers\\1stpersonDaedricChairhammer.nif",
+    "weapons\\chairhammers\\1stpersonDwarvenChairhammer.nif",
+    "weapons\\chairhammers\\1stpersonEbonyChairhammer.nif",
+    "weapons\\chairhammers\\1stpersonElvenChairhammer.nif",
+    "weapons\\chairhammers\\1stpersonGlassChairhammer.nif",
+    "weapons\\chairhammers\\1stpersonIronChairhammer.nif",
+    "weapons\\chairhammers\\1stpersonOrcishChairhammer.nif",
+    "weapons\\chairhammers\\1stpersonSteelChairhammer.nif"
+  ],
+  "PackageName": "MarkekrausChairhammers.7z"
+}

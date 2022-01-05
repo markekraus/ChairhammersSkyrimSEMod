@@ -1,0 +1,10 @@
+<fomod>
+    <Name>Chairhammers (Chair Warhammers)</Name>
+    <Author>Mark E. Kraus</Author>
+    <Version>1.0.0</Version>
+    <Website>https://www.nexusmods.com/skyrimspecialedition/mods/61304</Website>
+    <Description>Adds Chairhammers (Chair Warhammers) to Skyrim.</Description>
+    <Groups>
+        <element>Weapons</element>
+    </Groups>
+</fomod>
